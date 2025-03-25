@@ -4,3 +4,4 @@ go.mod
 
 *.csv
 *.txt
+package-lock.json
