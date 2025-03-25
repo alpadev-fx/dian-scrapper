@@ -1,11 +1,6 @@
 node_modules/
 *.xlsx
 go.mod
-*json
+
 *.csv
 *.txt
-*.log
-*.html
-*.jsonl
-*.jsonl.gz
-*.jsonl.tar.gz
